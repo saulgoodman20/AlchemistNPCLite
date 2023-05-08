@@ -1,0 +1,10 @@
+author = Gregg/VVV101, b2mauler, somebody0214, RebooT, drh, Inactive
+version = 1.8.17
+displayName = AlchemistNPC Lite Fixed
+homepage = https://forums.terraria.org/index.php?threads/alchemistnpc-v8-0.52798/
+hideCode = false
+weakReferences = Census, CalamityMod, CalamityModMusic
+hideResources = false
+includeSource = true
+buildIgnore = *.user, obj\*, bin\*, .vs\*, .git*, referenceImages*.png, .gitattributes, *.csproj
+includePDB = true
